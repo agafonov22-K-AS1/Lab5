@@ -229,7 +229,7 @@ CVSS: 3.5 (Low)
 
 ## Сводная таблица
 
-![Uploading image.png…]()
+<img width="622" height="340" alt="image" src="https://github.com/user-attachments/assets/25cdff3b-ebdc-4336-8001-df078165dda0" />
 
 ## Ответы на контрольные вопросы
 
