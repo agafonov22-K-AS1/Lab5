@@ -110,3 +110,5 @@
 
 ## Практическая часть (триаж уязвимостей)
 
+<img width="1355" height="869" alt="image" src="https://github.com/user-attachments/assets/1616aa7d-2086-4e37-a43c-46dfd6f3cffc" />
+![Uploading image.png…]()
