@@ -1,5 +1,6 @@
 # Lab5
 ## Практическая часть (SAST-анализ)
+## Авторы: Агафонов Александр, Жданько Алексей, Пасеченко Иван.
 ### 1) Анализ уязвимого файла с помощью утилиты Bandit.
 <img width="886" height="962" alt="image" src="https://github.com/user-attachments/assets/ce7908d6-e203-4f33-b257-1c0c76bd7bd6" />
 <img width="569" height="356" alt="image" src="https://github.com/user-attachments/assets/fa3d0a63-8499-4a75-9694-ff22d99f9406" />
